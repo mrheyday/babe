@@ -382,7 +382,7 @@ library DODOMath {
         aQ2^2 + bQ2 + c = 0, where
         a=1-k
         -b=(1-k)Q1-kQ0^2/Q1+i*deltaB
-        c=-kQ0^2 
+        c=-kQ0^2
         and Q2=(-b+sqrt(b^2+4(1-k)kQ0^2))/2(1-k)
         note: another root is negative, abondan
 
